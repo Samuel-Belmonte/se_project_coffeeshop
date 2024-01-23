@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+Some ways on improving the project could be making it a little more customizable like making it into a online website in which relates to the user. Also, maybe playing with the fonts, colors, and gradients more.
